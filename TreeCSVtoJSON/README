@@ -1,4 +1,4 @@
-This is a function that takes as input a tree in CSV format, witht he following columns:
+csv2json.R is a function that takes as input a tree in CSV format, witht he following columns:
 
 "ID": integer, encoding the id of the node
 "Node": character string specifying the label of the node
